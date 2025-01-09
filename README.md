@@ -1,5 +1,6 @@
 # Estatística Descritiva Aplicada à Engenharia Química
-Este script utiliza Python para realizar análises estatísticas básicas de parâmetros de processos químicos, como temperatura, pressão e eficiência.
+Este repositório contém um script em Python desenvolvido para demonstrar conceitos básicos de estatística descritiva aplicados a dados operacionais de processos químicos. O script simula dados como temperatura, pressão e eficiência de um processo químico, e aplica medidas estatísticas como média, mediana, desvio padrão, variância e correlação entre as variáveis. Ele também gera gráficos interativos para ajudar na visualização dos dados.
+Este projeto foi desenvolvido com a ajuda do ChatGPT, uma ferramenta de inteligência artificial, que colaborou na criação do script e explicação dos conceitos. A contribuição da comunidade é bem-vinda! Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests.
 
 ## Funcionalidades
 - Cálculo de estatísticas descritivas: média, mediana, moda, desvio padrão e variância.
