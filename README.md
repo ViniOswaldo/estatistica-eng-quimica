@@ -81,4 +81,17 @@ if __name__ == "__main__":
     estatistica_eng_quimica()
 
 
+########################################################## GERANDO DADOS ##########################################################
+![image](https://github.com/user-attachments/assets/40a622ed-03aa-4b41-8078-7fe804ab324d)
+
+
+########################################################## GERANDO TABELAS ##########################################################
+![image](https://github.com/user-attachments/assets/bdd94b42-e54d-40ba-a4e6-13cba0e80759)
+
+########################################################## INTERPRETAÇÃO ##########################################################
+![image](https://github.com/user-attachments/assets/cb4a5035-d8cf-418d-bf12-47b9efae1d78)
+
+
+
+
 
