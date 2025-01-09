@@ -9,7 +9,7 @@ Este script utiliza Python para realizar análises estatísticas básicas de par
 ## Como Usar
 1. Certifique-se de ter Python instalado (versão 3.8 ou superior).
 
-##########################################################CODIGO##########################################################
+## CÓDIGO:
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -81,14 +81,14 @@ if __name__ == "__main__":
     estatistica_eng_quimica()
 
 
-########################################################## GERANDO DADOS ##########################################################
+## ANALISANDO OS DADOS:
 ![image](https://github.com/user-attachments/assets/40a622ed-03aa-4b41-8078-7fe804ab324d)
 
 
-########################################################## GERANDO TABELAS ##########################################################
+## GERANDO TABELAS:
 ![image](https://github.com/user-attachments/assets/bdd94b42-e54d-40ba-a4e6-13cba0e80759)
 
-########################################################## INTERPRETAÇÃO ##########################################################
+## INTERPRETAÇÃO:
 ![image](https://github.com/user-attachments/assets/cb4a5035-d8cf-418d-bf12-47b9efae1d78)
 
 
