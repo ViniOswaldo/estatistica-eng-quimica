@@ -1,0 +1,2 @@
+# estatistica-eng-quimica
+Script_de_Estatistica_Descritiva_Aplicada_a_Engenharia_Quimica_com_Python
